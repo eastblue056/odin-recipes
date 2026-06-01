@@ -7,7 +7,9 @@ This website consists of a main index page with links to other recipe pages.
 
 ## Image Credit
 
-Recipe Image: "Sweet Tea" by [Katrin Hauf](https://unsplash.com/photos/clear-drinking-glass-with-sliced-lemon-weB2PvbQrnY)
+- Recipe Image: "Sweet Tea" by [Katrin Hauf](https://unsplash.com/photos/clear-drinking-glass-with-sliced-lemon-weB2PvbQrnY)
+- Recipe Image: "Spaghetti Carbonara" by [Pinar Kucuk](https://unsplash.com/photos/bowl-of-pasta-QuFm328PV88)
+
 
 <!-- # What I learned -->
 
